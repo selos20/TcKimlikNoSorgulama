@@ -1,6 +1,6 @@
 <?php
 /**
- * @author Kadir Emin İslamoğlu
+ * @author Naci Ünal 
  * @date 2015-08-03
  * @url <https://github.com/keislamoglu>
  */
